@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">7s Card Manager</string>
+    <string name="title_main">Card game 7s</string>
+    <string name="btn_new_game">Register game</string>
+    <string name="btn_history">Game history</string>
+    <string name="btn_query">Search by player</string>
+    <string name="title_register">New game</string>
+    <string name="label_player_1">Player 1</string>
+    <string name="label_player_2">Player 2</string>
+    <string name="label_player_3">Player 3</string>
+    <string name="hint_name">Name</string>
+    <string name="btn_play">Play 10 bets</string>
+    <string name="result_winner">Winner: %1$s</string>
+    <string name="result_error">Cannot play: all players are without money.</string>
+    <string name="title_history">Played games</string>
+    <string name="title_query">Query games by player</string>
+    <string name="hint_query">Player name</string>
+    <string name="btn_search">Search</string>
+    <string name="label_total_games">Games found: %1$d</string>
+    <string name="status_playing">Simulating game in background thread...</string>
+    <string name="validation_names">You must write three player names.</string>
+</resources>
