@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Gestor cartas 7s</string>
+    <string name="title_main">Juego de cartas 7s</string>
+    <string name="btn_new_game">Registrar partida</string>
+    <string name="btn_history">Historial de partidas</string>
+    <string name="btn_query">Consultar por jugador</string>
+    <string name="title_register">Nueva partida</string>
+    <string name="label_player_1">Jugador 1</string>
+    <string name="label_player_2">Jugador 2</string>
+    <string name="label_player_3">Jugador 3</string>
+    <string name="hint_name">Nombre</string>
+    <string name="btn_play">Jugar 10 apuestas</string>
+    <string name="result_winner">Ganador: %1$s</string>
+    <string name="result_error">No se puede jugar: todos los jugadores están sin saldo.</string>
+    <string name="title_history">Partidas celebradas</string>
+    <string name="title_query">Consulta de partidas por jugador</string>
+    <string name="hint_query">Nombre del jugador</string>
+    <string name="btn_search">Buscar</string>
+    <string name="label_total_games">Partidas encontradas: %1$d</string>
+    <string name="status_playing">Simulando partida en hilo secundario...</string>
+    <string name="validation_names">Debes escribir los nombres de los tres jugadores.</string>
+</resources>
